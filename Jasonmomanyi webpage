@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jason Orandi Momanyi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+
+        .header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 2rem;
+        }
+
+        .content {
+            max-width: 800px;
+            margin: 2rem auto;
+            background: url('https://www.example.com/background-image.jpg') no-repeat center center fixed;
+            background-size: cover;
+            color: white;
+            padding: 2rem;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            font-size: 2rem;
+        }
+
+        p {
+            font-size: 1.2rem;
+            line-height: 1.4;
+        }
+
+        .contact {
+            background-color: rgba(0, 0, 0, 0.6);
+            padding: 1rem;
+            border-radius: 5px;
+            margin-top: 2rem;
+        }
+
+        .contact p {
+            margin: 0;
+        }
+
+        .social-icons {
+            margin-top: 1rem;
+            text-align: center;
+        }
+
+        .social-icons a {
+            margin: 0 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Jason Orandi Momanyi</h1>
+    </div>
+
+    <div class="content">
+        <h1>About Me</h1>
+        <p>
+            Hello, I'm Jason Orandi Momanyi, born in Kisii, Kenya, and currently a student at JKUAT University. I'm a passionate individual who loves to explore new horizons and engage in thought-provoking conversations.
+        </p>
+        <p>
+            I'm enthusiastic about technology, design, and innovation, and I believe in the power of education to transform lives and the world. My journey at JKUAT has been an exciting one, allowing me to learn, grow, and connect with a diverse community of like-minded individuals.
+        </p>
+
+        <div class="contact">
+            <p>Contact:</p>
+            <p>+254 799 884 226</p>
+            <p>+254 794 463 828</p>
+        </div>
+
+        <div class="social-icons">
+            <a href="https://instagram.com/xlr8_alien?igshid=MzMyNGUyNmU2YQ==" target="_blank"><img src="https://www.example.com/instagram-logo.png" alt="Instagram"></a>
+            <a href="https://www.reddit.com/u/Dramatic-Speaker9180/s/55pnFbh7mL" target="_blank"><img src="https://www.example.com/reddit-logo.png" alt="Reddit"></a>
+            <a href="https://discord.gg/theblackripper" target="_blank"><img src="https://www.example.com/discord-logo.png" alt="Discord"></a>
+        </div>
+    </div>
+</body>
+</html>
